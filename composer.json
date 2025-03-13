@@ -1,0 +1,33 @@
+{
+    "name": "adems/adems-mvc",
+    "description": "Dapur AdeMS untuk bermain dan belajar membuat website menggunakan MVC (Model, View, Controller)",
+    "type": "project",
+    "license": "BSD-3-Clause",
+    "keywords": [
+        "adems",
+        "mvc"
+    ],
+    "homepage": "https://www.adems.id",
+    "support": {
+
+    },
+    "require": {
+        "php": "~8.1.0 || ~8.2.0 || ~8.3.0"
+    },
+    "require-dev": {
+
+    },
+    "autoload": {
+        "psr-4": {
+
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            
+        }
+    },
+    "scripts": {
+
+    }
+}
